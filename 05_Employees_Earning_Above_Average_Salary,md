@@ -41,5 +41,5 @@ WHERE Salary > (
 ## Notes
 
 - Uses the `AVG()` aggregate function.
-- Demonstrates the use of a Subquery.
-- Returns employees earning above the overall average salary.
+- Uses a Subquery to calculate the average salary.
+- Returns employees earning more than the average salary.
