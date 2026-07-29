@@ -1,18 +1,18 @@
-# 📘 Top 25 SQL Questions
+# Top 25 SQL Questions
 
-> A curated collection of SQL questions designed to help you strengthen your SQL fundamentals through practice and hands-on problem solving.
+> A curated collection of SQL questions designed to help you strengthen your SQL fundamentals through practice and hands on problem solving.
 
 
-## 🌟 Why this repository?
+## Why this repository?
 
-If you're learning SQL, knowing the syntax isn't enough—you need to solve problems.
+If you're learning SQL, knowing the syntax isn't enough you need to solve problems.
 
 This repository contains solutions, explanations, and multiple approaches for 25 carefully selected SQL questions that cover the concepts every SQL learner should practice.
 
 Whether you're revising, practicing, or exploring SQL more deeply, this repository is built to help you learn one query at a time.
 
 
-## 📋 Questions Covered
+## Questions Covered
 
 | # | SQL Question | Difficulty |
 |---|--------------|------------|
